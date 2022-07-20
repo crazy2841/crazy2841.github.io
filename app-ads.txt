@@ -1,6 +1,8 @@
 ironsrc.com, 327930, DIRECT, 79929e88b2ba73bc
 
-google.com, pub-9033496384883017, DIRECT, f08c47fec0942fa0
+google.com, pub-7808628403948840, DIRECT, f08c47fec0942fa0
+
+facebook.com, 180079970671872, DIRECT, c3e20eee3f780d68
 
 
 admanmedia.com, 9, RESELLER
