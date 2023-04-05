@@ -2,7 +2,7 @@ ironsrc.com, 327930, DIRECT, 79929e88b2ba73bc
 
 google.com, pub-6337113101283735, DIRECT, f08c47fec0942fa0
 
-google.com, pub-5709106928295679, DIRECT, f08c47fec0942fa0
+google.com, pub-8207747897467806, DIRECT, f08c47fec0942fa0
 
 facebook.com, 180079970671872, DIRECT, c3e20eee3f780d68
 
